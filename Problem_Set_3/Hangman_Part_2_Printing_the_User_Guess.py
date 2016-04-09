@@ -1,4 +1,4 @@
-##https://courses.edx.org/courses/course-v1:MITx+6.00.1x_8+1T2016/courseware/d5d822451677476fbfb0a0f9a14e0501/e59be1242a53477c95a48ac7fab34f4e/
+##https://courses.edx.org/courses/course-v1:MITx+6.00.1x_8+1T2016/courseware/sp13_Week_3/sp13_Problem_Set_3/
 ##
 ##Hangman Part 2 - Printing the User Guess
 ##
