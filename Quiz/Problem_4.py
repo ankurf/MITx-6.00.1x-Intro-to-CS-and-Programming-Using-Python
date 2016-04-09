@@ -18,3 +18,16 @@ def isPalindrome(aString):
             else:
                 return False
         return True
+
+##isPalindrome('')
+##isPalindrome('HLRhUlzr')
+##isPalindrome('wCLCw')
+##isPalindrome('qgeSmaG')
+##isPalindrome('TvdkQkdvT')
+##isPalindrome('L')
+##isPalindrome('CtC')
+##isPalindrome('OMrQHvJVY')
+##isPalindrome('JhJJhJ')
+##isPalindrome('cRCGfb')
+
+
